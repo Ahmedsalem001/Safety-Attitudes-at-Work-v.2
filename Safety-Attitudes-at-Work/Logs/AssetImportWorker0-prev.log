@@ -1,0 +1,564 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.11f1 (d00248457e15) revision 13632072'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'en' Physical Memory: 15724 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Mochii/Desktop/Graduated Project/unity project/Safety-Attitudes-at-Work/Safety-Attitudes-at-Work
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+14498
+Successfully changed project path to: C:/Users/Mochii/Desktop/Graduated Project/unity project/Safety-Attitudes-at-Work/Safety-Attitudes-at-Work
+C:/Users/Mochii/Desktop/Graduated Project/unity project/Safety-Attitudes-at-Work/Safety-Attitudes-at-Work
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17288] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 2725769370 [EditorId] 2725769370 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK3A3VS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [17288] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 2725769370 [EditorId] 2725769370 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-NK3A3VS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 14.86 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.11f1 (d00248457e15)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mochii/Desktop/Graduated Project/unity project/Safety-Attitudes-at-Work/Safety-Attitudes-at-Work/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3977 MB
+    Driver:   31.0.15.4633
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010401 seconds.
+- Loaded All Assemblies, in  0.337 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.220 seconds
+Domain Reload Profiling: 555ms
+	BeginReloadAssembly (104ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (129ms)
+		LoadAssemblies (102ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (127ms)
+			TypeCache.Refresh (126ms)
+				TypeCache.ScanAssembly (112ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (220ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (170ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (113ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.705 seconds
+Refreshing native plugins compatible for Editor in 5.89 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Safety-Attitudes-at-Work
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.637 seconds
+Domain Reload Profiling: 1340ms
+	BeginReloadAssembly (143ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (482ms)
+		LoadAssemblies (371ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (192ms)
+			TypeCache.Refresh (157ms)
+				TypeCache.ScanAssembly (140ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (638ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (496ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (343ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 6.52 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5964 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 101 unused Assets / (1.6 MB). Loaded Objects now: 6409.
+Memory consumption went from 245.2 MB to 243.5 MB.
+Total: 5.262800 ms (FindLiveObjects: 0.637500 ms CreateObjectMapping: 0.326400 ms MarkObjects: 3.690800 ms  DeleteObjects: 0.606700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 124733.313339 seconds.
+  path: Assets/New Nahil/Level-1/S2/L1-S2.unity
+  artifactKey: Guid(1a43d2ab1b8b4e640a9bf26e398f3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/L1-S2.unity using Guid(1a43d2ab1b8b4e640a9bf26e398f3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972d665e76e23aa66941e5d6b8d12cd3') in 0.002087 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 164.840629 seconds.
+  path: Assets/New Nahil/Level-1/S2/L1-S2.unity
+  artifactKey: Guid(1a43d2ab1b8b4e640a9bf26e398f3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/L1-S2.unity using Guid(1a43d2ab1b8b4e640a9bf26e398f3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5c62fdd0f16d4f9994077360e2dd9c') in 0.000658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 142.835464 seconds.
+  path: Assets/New Nahil/Level-1/S2/L1-S2.unity
+  artifactKey: Guid(1a43d2ab1b8b4e640a9bf26e398f3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/L1-S2.unity using Guid(1a43d2ab1b8b4e640a9bf26e398f3af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02938bd90986c977b68d14b6590a6cd0') in 0.000659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 480.596533 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0a4d4185dd43fc0642f7eb84447803d') in 0.024620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 29.941237 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd958b9084b9f9ee9447df73997208f41') in 0.003624 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 13.694163 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f6e38efef7a0f75de6041523428a72e') in 0.003585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 8.297610 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cbfeb9ae6e361b0747d1c07c0a2d2f2') in 0.003597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 7.371419 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5134947e7362db3c6f3bf661634ff2fc') in 0.003256 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 24.454073 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3de68a6c9acb5d87c49d6ca4e73602') in 0.003663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 8.008878 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10a12fc69bf06034cdd90ed16bffc78') in 0.003445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 14.084498 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c1054889340308f932615a7d570d8f') in 0.004104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 18.550819 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766f3341d58c315a58b2eb1b7e0338c1') in 0.003603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 100.363358 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx
+  artifactKey: Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Head Nod Yes.fbx using Guid(9d924acf8b994554b9b9265cb3265831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbfe3905449d1da9eb923e9f8bce953c') in 0.003616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 37.961027 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677268a0a32a3d33c0862f5d3904bf9b') in 0.003974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 13.023214 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8556331b43678cf706a2a9789b5b58f0') in 0.003268 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 54.964647 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa1a9010ffbde080266daaf41c23c2a') in 0.003498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 11.609518 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d57a880f2b85002233ee6c27cef5b7a') in 0.003435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 16.951585 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705814b0e0f478466eea523dd8c802cb') in 0.003468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 11.937469 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f4093141cfdbaa2bf9652788bd43cc') in 0.003633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 15.568558 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee66a6ab874c84bddf12a09e27be7377') in 0.003642 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 6.549419 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9819bbcce5afd4629bac7c9e03ceeafd') in 0.003447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 10.593136 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2252ea5106840f77150be260417f5fef') in 0.003723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 39.807954 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96f883475fdf62fe3e9195c90de6df9') in 0.003766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 13.455188 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc75ceece0de420c51467daaf3f7fa1a') in 0.003643 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 7.122528 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84abd921459932a80ab9a3713712b4e7') in 0.003677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 8.028280 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39c2d0fd289f94668deac2a4f5a5985') in 0.003359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 9.985729 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a93874ba9981bd9960a1ec8ee9903b9') in 0.003587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 7.076305 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba898c9dc570559ae96296a0a5015ff') in 0.004216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 12.066597 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed53713b049916ab1c65b21befc31ac0') in 0.003435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Import Request.
+  Time since last request: 6.662308 seconds.
+  path: Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx
+  artifactKey: Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Level-1/S2/Timeline-L1-S2/Hard Head Nod.fbx using Guid(13f65582504780844a66eda8a5438489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6fbccbb61940814a57d246550699732') in 0.003808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 135
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.442 seconds
+Refreshing native plugins compatible for Editor in 8.21 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Safety-Attitudes-at-Work
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.078 seconds
+Domain Reload Profiling: 1517ms
+	BeginReloadAssembly (138ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (240ms)
+		LoadAssemblies (291ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1079ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (413ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (277ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 6.22 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5754 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 64 unused Assets / (1.6 MB). Loaded Objects now: 6427.
+Memory consumption went from 207.3 MB to 205.6 MB.
+Total: 3.991200 ms (FindLiveObjects: 0.543900 ms CreateObjectMapping: 0.198900 ms MarkObjects: 2.859300 ms  DeleteObjects: 0.387900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.440 seconds
+Refreshing native plugins compatible for Editor in 5.29 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Safety-Attitudes-at-Work
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.061 seconds
+Domain Reload Profiling: 1497ms
+	BeginReloadAssembly (138ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (238ms)
+		LoadAssemblies (291ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1061ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (408ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (70ms)
+			ProcessInitializeOnLoadAttributes (274ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 5.66 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5754 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 64 unused Assets / (1.6 MB). Loaded Objects now: 6444.
+Memory consumption went from 209.2 MB to 207.6 MB.
+Total: 4.465000 ms (FindLiveObjects: 0.621200 ms CreateObjectMapping: 0.171700 ms MarkObjects: 3.223600 ms  DeleteObjects: 0.447700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

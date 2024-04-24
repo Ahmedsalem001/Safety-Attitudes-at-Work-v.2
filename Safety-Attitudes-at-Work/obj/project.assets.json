@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Assembly-CSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "DOTween.Modules": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assembly-CSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp.dll": {}
+        }
+      },
+      "DOTween.Modules/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DOTween.Modules.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DOTween.Modules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assembly-CSharp/1.0.0": {
+      "type": "project",
+      "path": "Assembly-CSharp.csproj",
+      "msbuildProject": "Assembly-CSharp.csproj"
+    },
+    "DOTween.Modules/1.0.0": {
+      "type": "project",
+      "path": "DOTween.Modules.csproj",
+      "msbuildProject": "DOTween.Modules.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Assembly-CSharp >= 1.0.0",
+      "DOTween.Modules >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mochii\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mochii\\Desktop\\Graduated Project\\unity project\\Safety-Attitudes-at-Work\\Safety-Attitudes-at-Work\\Assembly-CSharp-Editor.csproj",
+      "projectName": "Assembly-CSharp-Editor",
+      "projectPath": "C:\\Users\\Mochii\\Desktop\\Graduated Project\\unity project\\Safety-Attitudes-at-Work\\Safety-Attitudes-at-Work\\Assembly-CSharp-Editor.csproj",
+      "packagesPath": "C:\\Users\\Mochii\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mochii\\Desktop\\Graduated Project\\unity project\\Safety-Attitudes-at-Work\\Safety-Attitudes-at-Work\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mochii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\Mochii\\Desktop\\Graduated Project\\unity project\\Safety-Attitudes-at-Work\\Safety-Attitudes-at-Work\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Users\\Mochii\\Desktop\\Graduated Project\\unity project\\Safety-Attitudes-at-Work\\Safety-Attitudes-at-Work\\Assembly-CSharp.csproj"
+            },
+            "C:\\Users\\Mochii\\Desktop\\Graduated Project\\unity project\\Safety-Attitudes-at-Work\\Safety-Attitudes-at-Work\\DOTween.Modules.csproj": {
+              "projectPath": "C:\\Users\\Mochii\\Desktop\\Graduated Project\\unity project\\Safety-Attitudes-at-Work\\Safety-Attitudes-at-Work\\DOTween.Modules.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
