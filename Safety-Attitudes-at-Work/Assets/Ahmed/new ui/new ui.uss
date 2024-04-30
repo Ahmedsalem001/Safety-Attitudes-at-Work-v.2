@@ -1,0 +1,83 @@
+#btn {
+}
+
+.btn {
+    background-image: url('project://database/Assets/Ahmed/new%20ui/Achtung-Cthulhu-Tactics12172020-010221-56044.png?fileID=21300000&guid=0f959d8b6ef518a468ad1d1fa70ef055&type=3#Achtung-Cthulhu-Tactics12172020-010221-56044');
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 70px;
+    -unity-font: url('project://database/Assets/Ahmed/custom%20fonts/Iron%20&%20Brine.ttf?fileID=12800000&guid=5cf82e98de8772443be8c72e3184e65c&type=3#Iron & Brine');
+    -unity-font-style: bold;
+    font-size: 37px;
+    color: rgb(55, 41, 30);
+    -unity-font-definition: url('project://database/Assets/Ahmed/custom%20fonts/Iron%20&%20Brine%20SDF.asset?fileID=11400000&guid=4dd769fdb6f2a464ab725c22d2a315f0&type=2#Iron & Brine SDF');
+    position: relative;
+    align-items: flex-start;
+}
+
+.btn:hover {
+    scale: 1.1 1.1;
+    transition-timing-function: ease-out;
+    transition-duration: 0.5s;
+}
+
+.btn:active {
+    -unity-background-image-tint-color: rgba(200, 195, 195, 0.36);
+}
+
+.fontStyle {
+    position: absolute;
+    top: 30px;
+    left: 80px;
+    width: auto;
+    -unity-font: url('project://database/Assets/Ahmed/custom%20fonts/Iron%20&%20Brine.ttf?fileID=12800000&guid=5cf82e98de8772443be8c72e3184e65c&type=3#Iron & Brine');
+    -unity-font-definition: url('project://database/Assets/Ahmed/custom%20fonts/Iron%20&%20Brine%20SDF.asset?fileID=11400000&guid=4dd769fdb6f2a464ab725c22d2a315f0&type=2#Iron & Brine SDF');
+    font-size: 28px;
+    -unity-font-style: bold;
+    color: rgb(55, 41, 30);
+    -unity-text-align: upper-center;
+    height: auto;
+    padding-top: 0;
+    padding-right: 4px;
+    padding-bottom: 6px;
+    padding-left: 4px;
+    margin-bottom: 4px;
+    flex-grow: 1;
+}
+
+.level-1 {
+    position: absolute;
+    top: 225px;
+    left: 52px;
+    width: 816px;
+    height: 98px;
+    background-image: url('project://database/Assets/Ahmed/new%20ui/Achtung-Cthulhu-Tactics08142021-021058-98279.png?fileID=21300000&guid=c3643f8928410c3499e07d9a37e31955&type=3#Achtung-Cthulhu-Tactics08142021-021058-98279');
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+.level-1:hover {
+    background-image: url('project://database/Assets/Ahmed/new%20ui/Achtung-Cthulhu-Tactics08142021-021058-98279.png?fileID=21300000&guid=c3643f8928410c3499e07d9a37e31955&type=3#Achtung-Cthulhu-Tactics08142021-021058-98279');
+    -unity-background-image-tint-color: rgba(214, 214, 214, 0.64);
+}
+
+.showLoadMenu {
+    flex-grow: 1;
+    position: absolute;
+    width: 1373px;
+    height: 893px;
+    background-image: url('project://database/Assets/Ahmed/new%20ui/menu%201.png?fileID=21300000&guid=e7d33fa7cdb899344856ecdff6345e6f&type=3#menu 1');
+    top: 77px;
+    left: 288px;
+    transition-timing-function: ease-out-elastic;
+    display: flex;
+    opacity: 1;
+    transition-duration: 0.3s;
+    transition-property: opacity;
+    transition-delay: 0.2s;
+}
+
+.hideLoadMenu {
+    display: none;
+    opacity: 0;
+}
