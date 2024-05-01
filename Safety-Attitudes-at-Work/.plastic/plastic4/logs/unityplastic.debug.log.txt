@@ -1,0 +1,1221 @@
+2024-03-03 05:13:05,403 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-03 05:13:05,412 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-03 05:13:05,414 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-03 05:13:05,415 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-03 05:13:05,433 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-03 05:13:05,436 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-03 05:13:05,436 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-17 10:38:24,708 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-17 10:38:24,731 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-17 10:38:24,736 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-17 10:38:24,738 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-17 10:38:24,754 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-17 10:38:24,792 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-17 10:38:24,793 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-18 10:54:21,043 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 10:54:21,062 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 10:54:21,067 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 10:54:21,069 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-18 10:54:21,084 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-18 10:54:21,119 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-18 10:54:21,120 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-18 11:03:09,755 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 11:03:09,776 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 11:03:09,780 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 11:03:09,782 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-18 11:03:09,798 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-18 11:03:09,805 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-18 11:03:09,805 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-18 11:04:08,254 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 11:04:08,274 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 11:04:08,278 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-18 11:04:08,281 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-18 11:04:08,296 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-18 11:04:08,304 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-18 11:04:08,304 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-20 20:30:49,902 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-20 20:30:49,928 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-20 20:30:49,935 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-20 20:30:49,938 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-20 20:30:49,957 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-20 20:30:50,012 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-20 20:30:50,013 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-21 20:19:35,673 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-21 20:19:35,696 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-21 20:19:35,701 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-21 20:19:35,704 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-21 20:19:35,722 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-21 20:19:35,770 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-21 20:19:35,771 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-28 21:04:46,725 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-28 21:04:46,755 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-28 21:04:46,760 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-28 21:04:46,762 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-28 21:04:46,778 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-28 21:04:46,814 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-28 21:04:46,815 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-29 19:16:42,662 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-29 19:16:42,683 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-29 19:16:42,688 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-29 19:16:42,690 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-29 19:16:42,706 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-29 19:16:42,751 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-29 19:16:42,752 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-03-30 02:06:38,184 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-30 02:06:38,194 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-30 02:06:38,196 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-03-30 02:06:38,197 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-03-30 02:06:38,205 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-03-30 02:06:38,232 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-03-30 02:06:38,232 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-01 11:42:01,695 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-01 11:42:01,714 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-01 11:42:01,719 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-01 11:42:01,721 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-01 11:42:01,736 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-01 11:42:01,774 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-01 11:42:01,775 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-01 12:17:15,514 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-01 12:17:15,533 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-01 12:17:15,537 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-01 12:17:15,539 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-01 12:17:15,554 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-01 12:17:15,561 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-01 12:17:15,561 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-03 10:12:14,025 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:12:14,046 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:12:14,050 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:12:14,053 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-03 10:12:14,068 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-03 10:12:14,113 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-03 10:12:14,114 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-03 10:14:27,507 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:14:27,523 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:14:27,528 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:14:27,530 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-03 10:14:27,545 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-03 10:14:27,553 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-03 10:14:27,553 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-03 10:15:19,864 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:15:19,891 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:15:19,898 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:15:19,900 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-03 10:15:19,919 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-03 10:15:19,927 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-03 10:15:19,927 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-03 10:37:58,452 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:37:58,477 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:37:58,482 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-03 10:37:58,484 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-03 10:37:58,505 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-03 10:37:58,544 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-03 10:37:58,545 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-04 00:33:35,285 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-04 00:33:35,294 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-04 00:33:35,296 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-04 00:33:35,297 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-04 00:33:35,304 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-04 00:33:35,322 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-04 00:33:35,322 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-06 22:12:09,802 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-06 22:12:09,821 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-06 22:12:09,826 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-06 22:12:09,828 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-06 22:12:09,844 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-06 22:12:09,882 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-06 22:12:09,883 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 01:11:02,853 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 01:11:02,874 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 01:11:02,879 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 01:11:02,882 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 01:11:02,903 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 01:11:02,949 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 01:11:02,949 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 01:39:17,523 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 01:39:17,555 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 01:39:17,561 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 01:39:17,563 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 01:39:17,584 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 01:39:17,596 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 01:39:17,597 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 06:07:48,274 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 06:07:48,294 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 06:07:48,299 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 06:07:48,301 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 06:07:48,319 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 06:07:48,328 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 06:07:48,329 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 07:55:02,058 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 07:55:02,067 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 07:55:02,071 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 07:55:02,072 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 07:55:02,078 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 07:55:02,081 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 07:55:02,082 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:01:03,275 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:01:03,284 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:01:03,286 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:01:03,287 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:01:03,293 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:01:03,296 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:01:03,297 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:02:09,736 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:02:09,745 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:02:09,747 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:02:09,748 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:02:09,755 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:02:09,758 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:02:09,758 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:03:42,697 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:03:42,705 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:03:42,708 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:03:42,709 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:03:42,716 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:03:42,720 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:03:42,720 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:06:25,117 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:06:25,126 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:06:25,128 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:06:25,129 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:06:25,136 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:06:25,140 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:06:25,140 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:09:22,399 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:09:22,407 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:09:22,410 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:09:22,411 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:09:22,417 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:09:22,421 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:09:22,421 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:10:09,864 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:10:09,873 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:10:09,875 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:10:09,876 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:10:09,883 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:10:09,887 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:10:09,887 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:23:58,319 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:23:58,328 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:23:58,331 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:23:58,332 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:23:58,339 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:23:58,342 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:23:58,343 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:26:46,191 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:26:46,200 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:26:46,202 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:26:46,203 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:26:46,210 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:26:46,213 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:26:46,213 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 08:28:16,839 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:28:16,848 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:28:16,850 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 08:28:16,851 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 08:28:16,858 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 08:28:16,862 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 08:28:16,862 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 09:03:25,879 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 09:03:25,887 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 09:03:25,889 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 09:03:25,890 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 09:03:25,897 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 09:03:25,901 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 09:03:25,901 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-07 09:03:38,802 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 09:03:38,811 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 09:03:38,813 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-07 09:03:38,814 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-07 09:03:38,821 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-07 09:03:38,825 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-07 09:03:38,825 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-24 18:04:03,447 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 18:04:03,467 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 18:04:03,471 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 18:04:03,474 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-24 18:04:03,490 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-24 18:04:03,528 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-24 18:04:03,529 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-24 20:26:01,591 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:26:01,615 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:26:01,620 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:26:01,622 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-24 20:26:01,638 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-24 20:26:01,645 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-24 20:26:01,646 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-24 20:26:50,013 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:26:50,035 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:26:50,040 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:26:50,043 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-24 20:26:50,060 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-24 20:26:50,067 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-24 20:26:50,068 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-24 20:27:31,708 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:27:31,728 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:27:31,734 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:27:31,736 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-24 20:27:31,757 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-24 20:27:31,768 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-24 20:27:31,769 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-24 20:28:23,354 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:28:23,373 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:28:23,378 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-24 20:28:23,380 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-24 20:28:23,395 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-24 20:28:23,402 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-24 20:28:23,403 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 12:42:48,281 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 12:42:48,302 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 12:42:48,306 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 12:42:48,309 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 12:42:48,319 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 12:42:48,325 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 12:42:48,326 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 12:57:29,025 DESKTOP-NK3A3VS\Mochii DEBUG ProcessCommand - Processing Unity arguments: C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Unity.exe -projectPath C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work
+2024-04-29 14:15:29,163 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 14:15:29,183 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 14:15:29,188 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 14:15:29,190 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 14:15:29,207 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 14:15:29,219 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 14:15:29,220 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 17:13:30,446 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:13:30,455 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:13:30,457 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:13:30,458 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 17:13:30,465 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 17:13:30,483 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 17:13:30,484 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 17:45:22,958 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:45:22,967 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:45:22,969 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:45:22,970 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 17:45:22,977 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 17:45:22,996 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 17:45:22,997 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 17:54:07,964 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:54:07,973 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:54:07,975 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 17:54:07,976 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 17:54:07,983 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 17:54:07,987 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 17:54:07,987 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 18:06:33,826 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:06:33,835 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:06:33,837 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:06:33,838 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 18:06:33,845 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 18:06:33,849 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 18:06:33,849 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 18:25:55,008 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:25:55,017 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:25:55,019 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:25:55,020 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 18:25:55,027 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 18:25:55,030 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 18:25:55,031 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 18:26:04,652 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:26:04,660 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:26:04,663 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:26:04,664 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 18:26:04,670 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 18:26:04,674 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 18:26:04,674 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-29 18:27:04,753 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:27:04,762 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:27:04,764 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-29 18:27:04,765 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-29 18:27:04,774 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-29 18:27:04,777 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-29 18:27:04,777 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-30 20:39:45,264 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 20:39:45,273 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 20:39:45,275 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 20:39:45,276 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-30 20:39:45,287 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-30 20:39:45,307 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-30 20:39:45,307 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-30 22:10:07,095 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:10:07,106 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:10:07,108 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:10:07,109 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-30 22:10:07,116 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-30 22:10:07,119 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-30 22:10:07,120 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-30 22:10:22,941 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:10:22,952 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:10:22,954 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:10:22,955 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-30 22:10:22,962 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-30 22:10:22,965 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-30 22:10:22,965 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-30 22:12:08,114 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:12:08,123 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:12:08,125 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:12:08,126 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-30 22:12:08,132 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-30 22:12:08,136 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-30 22:12:08,136 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-30 22:13:36,445 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:13:36,453 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:13:36,456 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 22:13:36,457 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-30 22:13:36,464 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-30 22:13:36,467 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-30 22:13:36,467 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-04-30 23:10:10,468 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 23:10:10,487 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 23:10:10,491 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-04-30 23:10:10,494 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-04-30 23:10:10,509 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-04-30 23:10:10,516 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-04-30 23:10:10,517 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 03:40:22,524 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:40:22,551 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:40:22,558 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:40:22,561 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 03:40:22,580 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 03:40:22,593 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 03:40:22,593 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 03:41:52,266 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:41:52,288 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:41:52,293 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:41:52,296 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 03:41:52,312 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 03:41:52,321 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 03:41:52,321 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 03:48:45,430 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:48:45,451 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:48:45,457 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:48:45,459 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 03:48:45,479 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 03:48:45,488 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 03:48:45,489 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 03:49:37,600 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:49:37,623 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:49:37,628 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 03:49:37,630 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 03:49:37,646 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 03:49:37,654 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 03:49:37,655 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 11:16:07,567 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:16:07,598 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:16:07,604 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:16:07,608 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 11:16:07,624 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 11:16:07,634 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 11:16:07,635 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 11:48:15,499 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:48:15,518 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:48:15,523 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:48:15,525 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 11:48:15,541 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 11:48:15,549 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 11:48:15,549 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 11:52:26,937 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:52:26,958 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:52:26,963 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:52:26,965 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 11:52:26,981 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 11:52:26,989 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 11:52:26,989 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
+2024-05-01 11:57:58,411 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:57:58,431 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:57:58,435 DESKTOP-NK3A3VS\Mochii DEBUG RestApi - No user defined URIs in 'C:\Users\Mochii\AppData\Local\plastic4\webapi.conf'. Will use default URIs.
+2024-05-01 11:57:58,438 DESKTOP-NK3A3VS\Mochii DEBUG EventTracking - Event tracking disabled.
+2024-05-01 11:57:58,453 DESKTOP-NK3A3VS\Mochii DEBUG LocalizationTranslator - Unable to find localization file: 'C:\Users\Mochii\Desktop\Graduated Project\unity project\Safety-Attitudes-at-Work-v.2\Safety-Attitudes-at-Work\Library\PackageCache\com.unity.collab-proxy@2.2.0\Lib\Editor\PlasticSCM\localization\clientcommon..txt'
+2024-05-01 11:57:58,491 DESKTOP-NK3A3VS\Mochii ERROR PlasticApp - [HandleLog] Unexpected error: NotConfiguredClientException: Unity VCS client is not correctly configured for the current user: Client config file C:\Users\Mochii\AppData\Local\plastic4\client.conf not found. Please execute 'cm configure' to perform a text mode configuration or 'plastic --configure' for graphical mode.
+2024-05-01 11:57:58,492 DESKTOP-NK3A3VS\Mochii DEBUG PlasticApp - Stack trace: Codice.Client.Common.ClientConfig.get_SafeData () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.ClientConfig.IsSymlinkSupportEnabledOnWindows () (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetPath (System.String path, System.Boolean preserveName, System.Boolean solveLastElement) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.Common.Platform.GetSymLinkPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path, System.Boolean doPlatformGetSymLinkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Codice.Client.BaseCommands.BaseCommandsImpl.GetWorkspaceFromPath (System.String path) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+PlasticGui.PlasticAPI.GetWorkspaceFromPath (System.String wkPath) (at <8d9c715c82d0486d94302c11b07ddc1c>:0)
+Unity.PlasticSCM.Editor.FindWorkspace.InfoForApplicationPath (System.String path, PlasticGui.IPlasticAPI plasticApi) (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/FindWorkspace.cs:36)
+Unity.PlasticSCM.Editor.PlasticPlugin.EnableForWorkspace () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:114)
+Unity.PlasticSCM.Editor.PlasticPlugin.Enable () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/PlasticPlugin.cs:106)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.EndCooldown () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:56)
+Unity.PlasticSCM.Editor.UI.CooldownWindowDelayer.OnUpdate () (at ./Library/PackageCache/com.unity.collab-proxy@2.2.0/Editor/PlasticSCM/UI/CooldownWindowDelayer.cs:67)
+UnityEditor.EditorApplication.Internal_CallUpdateFunctions () (at <9920ff0c944845d7b9f9a61ef1478edc>:0)
+
