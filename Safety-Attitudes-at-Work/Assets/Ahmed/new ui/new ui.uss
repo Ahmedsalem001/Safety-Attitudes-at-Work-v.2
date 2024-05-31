@@ -81,3 +81,23 @@
     display: none;
     opacity: 0;
 }
+
+.unity-base-field {
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    align-self: auto;
+    opacity: 1;
+}
+
+.unity-base-popup-field {
+    -unity-font: url('project://database/Assets/Ahmed/custom%20fonts/Iron%20&%20Brine.ttf?fileID=12800000&guid=5cf82e98de8772443be8c72e3184e65c&type=3#Iron & Brine');
+    -unity-font-definition: initial;
+    opacity: 1;
+}
+
+.unity-popup-field {
+    -unity-font: url('project://database/Assets/Ahmed/custom%20fonts/Iron%20&%20Brine.ttf?fileID=12800000&guid=5cf82e98de8772443be8c72e3184e65c&type=3#Iron & Brine');
+    -unity-font-definition: initial;
+    opacity: 1;
+}

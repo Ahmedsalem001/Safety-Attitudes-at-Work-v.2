@@ -41,6 +41,10 @@ public class levelLoader : MonoBehaviour
     {
         LoadScene(1);
     }
+    public void Loadlevel2()
+    {
+        LoadScene(4);
+    }
     // public void LoadStartMenu()
     // {
     //     StartCoroutine(Loadlevel("inStart"));

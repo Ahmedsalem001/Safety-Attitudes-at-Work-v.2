@@ -1,0 +1,1198 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.11f1 (d00248457e15) revision 13632072'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 12132 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\New folder (2)\Editor\2022.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/New folder (2)/project/Safety-Attitudes-at-Work-v.2/Safety-Attitudes-at-Work
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+4974
+Successfully changed project path to: D:/New folder (2)/project/Safety-Attitudes-at-Work-v.2/Safety-Attitudes-at-Work
+D:/New folder (2)/project/Safety-Attitudes-at-Work-v.2/Safety-Attitudes-at-Work
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4916] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 3648473878 [EditorId] 3648473878 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K1TCHV7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4916] Host "[IP] 192.168.1.7 [Port] 0 [Flags] 2 [Guid] 3648473878 [EditorId] 3648473878 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-K1TCHV7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 142.49 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.11f1 (d00248457e15)
+[Subsystems] Discovering subsystems at path D:/New folder (2)/Editor/2022.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/New folder (2)/project/Safety-Attitudes-at-Work-v.2/Safety-Attitudes-at-Work/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   NVIDIA
+    VRAM:     4047 MB
+    Driver:   31.0.15.5176
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Initialize mono
+Mono path[0] = 'D:/New folder (2)/Editor/2022.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/New folder (2)/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/New folder (2)/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56672
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/New folder (2)/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009378 seconds.
+- Loaded All Assemblies, in  1.353 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.383 seconds
+Domain Reload Profiling: 2737ms
+	BeginReloadAssembly (406ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (134ms)
+	RebuildNativeTypeToScriptingClass (48ms)
+	initialDomainReloadingComplete (151ms)
+	LoadAllAssembliesAndSetupDomain (614ms)
+		LoadAssemblies (403ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (609ms)
+			TypeCache.Refresh (604ms)
+				TypeCache.ScanAssembly (557ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (1385ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (913ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (26ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (8ms)
+			ProcessInitializeOnLoadAttributes (675ms)
+			ProcessInitializeOnLoadMethodAttributes (179ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.633 seconds
+Refreshing native plugins compatible for Editor in 14.22 ms, found 7 plugins.
+Native extension for WindowsStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Safety-Attitudes-at-Work
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.679 seconds
+Domain Reload Profiling: 5415ms
+	BeginReloadAssembly (527ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (21ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (67ms)
+	RebuildCommonClasses (114ms)
+	RebuildNativeTypeToScriptingClass (54ms)
+	initialDomainReloadingComplete (123ms)
+	LoadAllAssembliesAndSetupDomain (1812ms)
+		LoadAssemblies (1116ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (990ms)
+			TypeCache.Refresh (831ms)
+				TypeCache.ScanAssembly (770ms)
+			ScanForSourceGeneratedMonoScriptInfo (103ms)
+			ResolveRequiredComponents (51ms)
+	FinalizeReload (2784ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2038ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (14ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (264ms)
+			ProcessInitializeOnLoadAttributes (1498ms)
+			ProcessInitializeOnLoadMethodAttributes (240ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (21ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 13.23 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5972 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 101 unused Assets / (1.6 MB). Loaded Objects now: 6419.
+Memory consumption went from 246.1 MB to 244.5 MB.
+Total: 10.947000 ms (FindLiveObjects: 1.058000 ms CreateObjectMapping: 1.189800 ms MarkObjects: 7.800800 ms  DeleteObjects: 0.896400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 66136.858951 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/BWflatLUT_32.png
+  artifactKey: Guid(a73ca2686d3437048b0b34717e6e909c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/BWflatLUT_32.png using Guid(a73ca2686d3437048b0b34717e6e909c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91c831761a87a49d169472ca23acec2') in 0.146591 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.png
+  artifactKey: Guid(89878140665978f4f9f27f55a61fb12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Sunset.png using Guid(89878140665978f4f9f27f55a61fb12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd185e564235af4163d1edb04fe432730') in 0.197761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Nahil/scene_4/Materials/Ch01_1001_Normal.png
+  artifactKey: Guid(9ab108b5280baa24daabeae62c53f8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/scene_4/Materials/Ch01_1001_Normal.png using Guid(9ab108b5280baa24daabeae62c53f8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ddedff6cf7d548bd13398e550904a76') in 0.194959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/BWcontrastLUT_32.png
+  artifactKey: Guid(6f1e98e84d5efcb4db64b180cfa0dc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/BWcontrastLUT_32.png using Guid(6f1e98e84d5efcb4db64b180cfa0dc02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b5f16c5536068735886c3b7f6cf836') in 0.013559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/New Nahil/models/Characters PrefAps/Textures/Ch17_1001_Specular.png
+  artifactKey: Guid(be61df205eb77644692d38e1e1e58daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Characters PrefAps/Textures/Ch17_1001_Specular.png using Guid(be61df205eb77644692d38e1e1e58daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c52203a97d4bed784bf2d357712043') in 0.082482 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/RussianLUT_32.png
+  artifactKey: Guid(26babcb5b387f6b438daf67b70fcafff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/RussianLUT_32.png using Guid(26babcb5b387f6b438daf67b70fcafff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15d2777ec43b0a8fb61f35e236304ac') in 0.013967 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Wood/OBS_MetallicOcculusionSmoothness.tif
+  artifactKey: Guid(f99f32f7a5f676d469da68f8b77c913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Wood/OBS_MetallicOcculusionSmoothness.tif using Guid(f99f32f7a5f676d469da68f8b77c913a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04acaac492e5306e97c4417d04ee534') in 0.015812 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Texture_8_Diffuse.png
+  artifactKey: Guid(c4e25ba86bedca5438d41fd66a7687fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Texture_8_Diffuse.png using Guid(c4e25ba86bedca5438d41fd66a7687fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5edceccbac202f4cd3f316e554cfffac') in 0.543826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS013/FS013_Snowy.png
+  artifactKey: Guid(cd6e32b2b89313e4ba54e7fc07ea31f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS013/FS013_Snowy.png using Guid(cd6e32b2b89313e4ba54e7fc07ea31f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e51931457b21a08ff1b5bd22cabbed1') in 0.154262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Warm2_LUT_32.png
+  artifactKey: Guid(a60de0cd968c529409871fc86e4ba65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Warm2_LUT_32.png using Guid(a60de0cd968c529409871fc86e4ba65d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4a452cf32cfc40ba2bb9835486bb97') in 0.008377 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Albedo.tif
+  artifactKey: Guid(dd61af2ec9847eb4d8e17529fa61b143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Albedo.tif using Guid(dd61af2ec9847eb4d8e17529fa61b143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a2d614034b7ab3b038a018cb9cf5b3') in 0.013322 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Albedo.tif
+  artifactKey: Guid(59c8de363dc14c54986d0751c2c38342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Albedo.tif using Guid(59c8de363dc14c54986d0751c2c38342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228a29226906b609027bc84da7eb70b2') in 0.069568 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Plastic/Elastic_Normal.tif
+  artifactKey: Guid(0282418612e3e1d46b15aa298c65c893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Plastic/Elastic_Normal.tif using Guid(0282418612e3e1d46b15aa298c65c893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f114e9e84b525506d1ae010c6be90e65') in 0.009787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Nahil/TimeLine/Textures/Ch17_1002_Diffuse.png
+  artifactKey: Guid(14a108e8e8cb41e4792b44fbcc289e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/TimeLine/Textures/Ch17_1002_Diffuse.png using Guid(14a108e8e8cb41e4792b44fbcc289e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3068f9cbe020af23ec4b886128a9a09') in 0.331003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/movie4LUT_32.png
+  artifactKey: Guid(2b698f1b5f9aa944899012a28b478cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/movie4LUT_32.png using Guid(2b698f1b5f9aa944899012a28b478cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c254894935f3339ba56f952a38fad8f') in 0.010221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Vehicle_Bus_3.png
+  artifactKey: Guid(f6e5e6c56838a5046bcfcdbf324b0f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Vehicle_Bus_3.png using Guid(f6e5e6c56838a5046bcfcdbf324b0f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584316cbfe1a42f1f02c05f4813abeef') in 0.013383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Panoramics/FS017/FS017_Sunrise.png
+  artifactKey: Guid(638057397df11a3498b23f0c7747179a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Panoramics/FS017/FS017_Sunrise.png using Guid(638057397df11a3498b23f0c7747179a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f92b5e94a8916874f26010ead5d02906') in 0.336458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/ViceLUT_32.png
+  artifactKey: Guid(fb7abafb89d678e4e955087a3550a023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/ViceLUT_32.png using Guid(fb7abafb89d678e4e955087a3550a023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775d00f3041aa07f7b9ec690081b6bdd') in 0.006792 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/CozinessLUT_32.png
+  artifactKey: Guid(a68ed9943f0c7fd44b873cd886fae3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/CozinessLUT_32.png using Guid(a68ed9943f0c7fd44b873cd886fae3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1590987dc825350f60c37ee1aa36f9d2') in 0.123323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Panoramics/FS002/FS002_Rainy.png
+  artifactKey: Guid(2e30393ba94342e4eb19098ab7ec14b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Panoramics/FS002/FS002_Rainy.png using Guid(2e30393ba94342e4eb19098ab7ec14b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d9d4d1603340978551923562fc1611') in 0.054356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/DarkLUT_32.png
+  artifactKey: Guid(76ab2c93b9b7fe443a6946cea06da2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/DarkLUT_32.png using Guid(76ab2c93b9b7fe443a6946cea06da2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c0ae243a78ea27449972f82dd611330') in 0.006247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/ScatterMap/ScatterMap1.jpg
+  artifactKey: Guid(68742a4fbce75cc4a8101b37a601d8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/ScatterMap/ScatterMap1.jpg using Guid(68742a4fbce75cc4a8101b37a601d8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d92ab4da97d92a31d85e828fcf6e15c') in 0.007064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/GreenParadiseLUT_32.png
+  artifactKey: Guid(45478cad60b4e3a41bdabdde1fd4c03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/GreenParadiseLUT_32.png using Guid(45478cad60b4e3a41bdabdde1fd4c03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c44ed629320bf776baf12cf1eaf5f0') in 0.035152 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/DarkLUT_32.png
+  artifactKey: Guid(c3c39d20658041944b7980a7a21ec5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/DarkLUT_32.png using Guid(c3c39d20658041944b7980a7a21ec5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d866793f8815a326e9a00ed3a157ab') in 0.006606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/vice3LUT_32.png
+  artifactKey: Guid(2749147ab15a797468733a4f68688ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/vice3LUT_32.png using Guid(2749147ab15a797468733a4f68688ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04df744c91e8ec38f74ff5434dcc012') in 0.005751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/Paint5G_AlbedoSmoothness.tif
+  artifactKey: Guid(039a6a65ccc19e3498ac145f21bc35ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/Paint5G_AlbedoSmoothness.tif using Guid(039a6a65ccc19e3498ac145f21bc35ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50f5029cdbb11e7af8f4816d0106714') in 0.101325 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Vehicle_Container_1.png
+  artifactKey: Guid(65b68621c76dea14ca7efad04a2716f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Vehicle_Container_1.png using Guid(65b68621c76dea14ca7efad04a2716f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52de76e3c331f7bcd3e79a2476a03420') in 0.009369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/LightFlares/Textures/Flare50mm.psd
+  artifactKey: Guid(23a02ac18d11c9ffa0009c58a8ad6659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/LightFlares/Textures/Flare50mm.psd using Guid(23a02ac18d11c9ffa0009c58a8ad6659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e615378f1ad5dc251e67a2bbd579c6a1') in 0.007429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/scenes/old level-1/option-2/TimeLine/Electrical specialist/Texture/Ch08_1002_Specular.png
+  artifactKey: Guid(3786b6094cfbfdf4ba76157c24dbf40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/old level-1/option-2/TimeLine/Electrical specialist/Texture/Ch08_1002_Specular.png using Guid(3786b6094cfbfdf4ba76157c24dbf40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88bcba575259f2439be2db662d62de49') in 0.301395 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Old_LUT_32.png
+  artifactKey: Guid(de094554db0bcbb4cab5e3a0ae5ab5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Old_LUT_32.png using Guid(de094554db0bcbb4cab5e3a0ae5ab5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1d9d83d9df6ad7a6da6cf08004ec31') in 0.006193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Scenes/Texture_Grass_Normal.png
+  artifactKey: Guid(69e10fcec9984ba4f839a5693383c57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Scenes/Texture_Grass_Normal.png using Guid(69e10fcec9984ba4f839a5693383c57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62be79fae54428f19f44e648263e45b5') in 0.154631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/NightLUT_32.png
+  artifactKey: Guid(4560fceb7d189db43934d683e0ba6743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/NightLUT_32.png using Guid(4560fceb7d189db43934d683e0ba6743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450b69a29dacfbb5505c9906e25f4904') in 0.018300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Panoramics/FS013/FS013_Night.png
+  artifactKey: Guid(bcdc224ba1d7ce848bf8387587936286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Panoramics/FS013/FS013_Night.png using Guid(bcdc224ba1d7ce848bf8387587936286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd062c34acc186a5fc6e88176c1f6664a') in 0.156473 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Movie3LUT_32.png
+  artifactKey: Guid(e51ce04660a5e9549878f9536345175f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Movie3LUT_32.png using Guid(e51ce04660a5e9549878f9536345175f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b29a3d463b633c513b5ac2d947049e') in 0.101462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/Paint5G_AlbedoSmoothness.tif
+  artifactKey: Guid(5d25a5cd577a4c54e94fdf9cc6f1a631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/Paint5G_AlbedoSmoothness.tif using Guid(5d25a5cd577a4c54e94fdf9cc6f1a631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e341af212537bd73f8fa42e7a6a5276') in 0.013818 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Normal.tif
+  artifactKey: Guid(ac80c335ebd6dde4fa54a82050064545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Normal.tif using Guid(ac80c335ebd6dde4fa54a82050064545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5ce97598239951777e2ea9cbbb8257') in 0.053853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/HardHat/SafetyHat_Normal.tif
+  artifactKey: Guid(5b2e3fb3116ec674c800fbcff578264a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/HardHat/SafetyHat_Normal.tif using Guid(5b2e3fb3116ec674c800fbcff578264a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba10433a743b87a101daebc815599640') in 0.203239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.png
+  artifactKey: Guid(71af0a156cd7ed6469b31ce35294a78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night_Moonless.png using Guid(71af0a156cd7ed6469b31ce35294a78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f73317ecedee4de64a8ab5d467b196') in 0.094959 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Nahil/scene_4/Materials/Ch01_1001_Specular.png
+  artifactKey: Guid(284f92db198be8d4f87c505d7269a481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/scene_4/Materials/Ch01_1001_Specular.png using Guid(284f92db198be8d4f87c505d7269a481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94bb3f6aaa6692aec51198c91ab16db0') in 0.106229 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg
+  artifactKey: Guid(78a59ca99f8987941adb61f9e14a06a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg using Guid(78a59ca99f8987941adb61f9e14a06a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282bad441daddf32fb571acbb9c4f48a') in 0.762978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Concrete/Ground_Albedo.tif
+  artifactKey: Guid(6c322932c6c9d21419cdabf852e24df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Concrete/Ground_Albedo.tif using Guid(6c322932c6c9d21419cdabf852e24df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d861cda7035617227216a3ac19cc58') in 0.096406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Panoramics/FS013/FS013_Rainy.png
+  artifactKey: Guid(1ee2133ffc1b4204cb016aa6dc1cd010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Panoramics/FS013/FS013_Rainy.png using Guid(1ee2133ffc1b4204cb016aa6dc1cd010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f75f73039174d2de3376424e21335e07') in 0.014274 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/NightLUT_32.png
+  artifactKey: Guid(d1e61950ca7e1fd42a600c616bde6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/NightLUT_32.png using Guid(d1e61950ca7e1fd42a600c616bde6ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d8e576838bc190936d57254f838aa6') in 0.007016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Old2_LUT_32.png
+  artifactKey: Guid(fa587301b377b4949b2d21bc4311d2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Old2_LUT_32.png using Guid(fa587301b377b4949b2d21bc4311d2ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac51f0815b6d204f17e01429ec561ca') in 0.011722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1002_Normal.png
+  artifactKey: Guid(3ae72974a6a198845a662bcb4f6b8372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1002_Normal.png using Guid(3ae72974a6a198845a662bcb4f6b8372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33616e48a319711cf621ed8130eb3294') in 0.161149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/New Nahil/models/Characters PrefAps/Textures/Ch17_1001_Normal.png
+  artifactKey: Guid(181fd03a7192b534d945bd8a4a4965ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Characters PrefAps/Textures/Ch17_1001_Normal.png using Guid(181fd03a7192b534d945bd8a4a4965ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a9212773c00d8ef54d785a36cf857e') in 0.012448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS003/FS003_Rainy.png
+  artifactKey: Guid(ad211dc5ae928ef40b568736df2f62b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS003/FS003_Rainy.png using Guid(ad211dc5ae928ef40b568736df2f62b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f506dbb284ff9d212147a9e8803a252') in 0.128930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1001_Specular.png
+  artifactKey: Guid(9870b1db259d037478dfb45a3434c368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1001_Specular.png using Guid(9870b1db259d037478dfb45a3434c368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec28ba52c9dfe7e1e012a438d360d0e2') in 0.012636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Normal.tif
+  artifactKey: Guid(c517a9b1527aec343806327b47ad22df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Normal.tif using Guid(c517a9b1527aec343806327b47ad22df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd14b0123f6846c5ead069bd49af2622') in 0.008849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Nahil/scene-3/TimeLine/Electrical specialist/Texture/Ch08_1002_Glossiness.png
+  artifactKey: Guid(1a83d135c3d88a043817cf88f84c32c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/scene-3/TimeLine/Electrical specialist/Texture/Ch08_1002_Glossiness.png using Guid(1a83d135c3d88a043817cf88f84c32c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b034ed458ed302e9d595b76496f8c97') in 0.208253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Panoramics/FS003/FS003_Day_Sunless.png
+  artifactKey: Guid(c5d6fd4fa28879541854af30fab64b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Panoramics/FS003/FS003_Day_Sunless.png using Guid(c5d6fd4fa28879541854af30fab64b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abc4e7b2c07619e9fdac9755db6e4388') in 0.176287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1003_Normal 1.png
+  artifactKey: Guid(67354e30161b71743bbbb79e097c1aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1003_Normal 1.png using Guid(67354e30161b71743bbbb79e097c1aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b52b1fcf2f7a0afc35d56954e55cf00') in 0.189377 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Nahil/TimeLine/Textures/Ch17_1001_Glossiness.png
+  artifactKey: Guid(963bc8d91769d0d4b843d7674af9b392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/TimeLine/Textures/Ch17_1001_Glossiness.png using Guid(963bc8d91769d0d4b843d7674af9b392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5edc246e28ccbdab5ebbfb7e924afb6e') in 0.396436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/RussianLUT_32.png
+  artifactKey: Guid(91e1c9464e49a3a4baac51e668baa8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/RussianLUT_32.png using Guid(91e1c9464e49a3a4baac51e668baa8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba486fde6aab88a14c4c970a3c84685f') in 0.008133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Metal/Metal_Normal.tif
+  artifactKey: Guid(3b0b7c1f4ac9f6b499e27cf84e722ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Metal/Metal_Normal.tif using Guid(3b0b7c1f4ac9f6b499e27cf84e722ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46adefde54ebb8c18bba117b711550b') in 0.010835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/SepiaLUT_32.png
+  artifactKey: Guid(6a4e125207397fb49a4b19a8d8d64b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/SepiaLUT_32.png using Guid(6a4e125207397fb49a4b19a8d8d64b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c563335447ac98f61f44fc6f9262c873') in 0.011249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Concrete/Ground_Normal.tif
+  artifactKey: Guid(e0741a51b216ff442a33dd453fc896c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Concrete/Ground_Normal.tif using Guid(e0741a51b216ff442a33dd453fc896c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05c7c98c8ba4570bc7754675b9509a0e') in 0.193749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Scenes/Texture_Grass_Normal.png
+  artifactKey: Guid(c305cff4a6ddd4b4fbf8b92fe41098b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Scenes/Texture_Grass_Normal.png using Guid(c305cff4a6ddd4b4fbf8b92fe41098b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e066a2bc909bb2c74aac67a57791db77') in 0.018264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Vehicle_Container_3.png
+  artifactKey: Guid(8eac3f6a5408bf54683eca8076ada1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Vehicle_Container_3.png using Guid(8eac3f6a5408bf54683eca8076ada1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45785d6d9a8f363a5b4c7936fc3d1d59') in 0.011085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunrise.png
+  artifactKey: Guid(c15e36d3819e8d14ab21ab119e3fd4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS003/FS003_Sunrise.png using Guid(c15e36d3819e8d14ab21ab119e3fd4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375f4cf97a966905e196f0bf523b9c89') in 0.032277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/ScatterMap/ScatterMap3.jpg
+  artifactKey: Guid(32ecc7e25bc3df24384c66ca15409143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/ScatterMap/ScatterMap3.jpg using Guid(32ecc7e25bc3df24384c66ca15409143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547680642e3c031fe4c6fa92f129bcbd') in 0.009758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Texture_10_1_Normal.png
+  artifactKey: Guid(8b5bf96084b1b1d448f46a5ebc9bdcfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Texture_10_1_Normal.png using Guid(8b5bf96084b1b1d448f46a5ebc9bdcfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762c1b5031f2d865bc12c4ae8258be54') in 0.157416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Wood/OBS_Albedo.tif
+  artifactKey: Guid(6d24459b35a2f6344a69d89601b51679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Wood/OBS_Albedo.tif using Guid(6d24459b35a2f6344a69d89601b51679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff63f4256588be0e6d8cd91fe9ff8029') in 0.023997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Oce_LUT_32.png
+  artifactKey: Guid(d6db82577e9088b40b4c5710c44550ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Oce_LUT_32.png using Guid(d6db82577e9088b40b4c5710c44550ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034ec99acea3b2edc5d92fb0aed759e1') in 0.006931 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Texture_14_Diffuse2.png
+  artifactKey: Guid(9deb31dbcebd65447ac1a6fc2c06a932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Texture_14_Diffuse2.png using Guid(9deb31dbcebd65447ac1a6fc2c06a932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29944378415b572550e1b830cce61fd') in 0.262068 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS003/FS003_Snowy.png
+  artifactKey: Guid(f4d685236ef56ef41a4ddef00508a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS003/FS003_Snowy.png using Guid(f4d685236ef56ef41a4ddef00508a2c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce771b2a1693c9db7c07a507b771309') in 0.067597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/New Nahil/models/Env_/sky/[BFW]SimpleDynamicClouds/Textures/DensityMap/DensityMap0.jpg
+  artifactKey: Guid(37555722b0bcfb74087f874fb131431e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/sky/[BFW]SimpleDynamicClouds/Textures/DensityMap/DensityMap0.jpg using Guid(37555722b0bcfb74087f874fb131431e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79dc2bacc404da5f8dd6e91be2f4a48e') in 0.447581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Panoramics/FS013/FS013_Day.png
+  artifactKey: Guid(028389fbc2124c34da8d6dad4b1ae7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Panoramics/FS013/FS013_Day.png using Guid(028389fbc2124c34da8d6dad4b1ae7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'becbcbce87653b34166711dd87b08c75') in 0.178646 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Drama2LUT_32.png
+  artifactKey: Guid(850123d8bd2bc6a429ad506bfef02afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Drama2LUT_32.png using Guid(850123d8bd2bc6a429ad506bfef02afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333ac188d800fc6efc583198f6abc989') in 0.065564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Texture_9_Normal.png
+  artifactKey: Guid(a2f204800f36f224b883f5d17e57389c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Texture_9_Normal.png using Guid(a2f204800f36f224b883f5d17e57389c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff18fecddc9f1a0da712654131792a7') in 0.168849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/ScatterMap/ScatterMap0.jpg
+  artifactKey: Guid(2b87ab9d230f639458baf128f06989ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/ScatterMap/ScatterMap0.jpg using Guid(2b87ab9d230f639458baf128f06989ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53be8404b87fd7ced00f84fe2b4bd6d2') in 0.095905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/Russian2LUT_32.png
+  artifactKey: Guid(9f9764eda1da9af43bcb9726fb962c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/Russian2LUT_32.png using Guid(9f9764eda1da9af43bcb9726fb962c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c54fadbfc032f3fe42959256e406ad9e') in 0.069026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.png
+  artifactKey: Guid(268c93021d7cf59469304bd4e244f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Day_Sunless.png using Guid(268c93021d7cf59469304bd4e244f156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d72e2c8ff6b3a3ccf34e052323f0cb6') in 0.068207 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/New Nahil/models/Characters PrefAps/Textures/Ch17_1001_Diffuse.png
+  artifactKey: Guid(e25b654fdaa822840a858cc247490f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Characters PrefAps/Textures/Ch17_1001_Diffuse.png using Guid(e25b654fdaa822840a858cc247490f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb92a1b518bb808f80b6613b63149c6') in 0.066280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Texture_15_Normal.png
+  artifactKey: Guid(ec1b57d11eed10645b6589d022fff38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Texture_15_Normal.png using Guid(ec1b57d11eed10645b6589d022fff38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2ad4a0ede4660236615ef6ba59598e') in 0.232231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Natures.png
+  artifactKey: Guid(d4aec383b01f2dc498bf7503531cca39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Natures.png using Guid(d4aec383b01f2dc498bf7503531cca39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68e3c06da4f81153e7278dad6aaa581') in 0.074460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/DensityMap/DensityMap1.jpg
+  artifactKey: Guid(9814ed12d7dafdd44bad372fa765c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/sky/[BFW]SimpleDynamicClouds/Textures/DensityMap/DensityMap1.jpg using Guid(9814ed12d7dafdd44bad372fa765c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a1a25516a8c043aec4b963fa66e881') in 0.090129 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/Dark2LUT_32.png
+  artifactKey: Guid(b2be66e1edb1a584190484224c0f9c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/Dark2LUT_32.png using Guid(b2be66e1edb1a584190484224c0f9c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06782b9ad2e79fee80a672b579a5287') in 0.047490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Drywall/Drywall_AlbedoSmoothness.tif
+  artifactKey: Guid(3e11968c372730442aae3b4f7c909931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Drywall/Drywall_AlbedoSmoothness.tif using Guid(3e11968c372730442aae3b4f7c909931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8e39e75e06efad40b90ba7fc0c6179') in 0.123610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Normal.tif
+  artifactKey: Guid(d608c45da8580c9408ee50eb9a8c40f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Normal.tif using Guid(d608c45da8580c9408ee50eb9a8c40f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de70cfe0ebe85817ebbe115edf95e58') in 0.094821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Panoramics/FS003/FS003_Night_Moonless.png
+  artifactKey: Guid(1990d853793eb2c428bc214a261b666c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Panoramics/FS003/FS003_Night_Moonless.png using Guid(1990d853793eb2c428bc214a261b666c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2fbf53f7e3d205a8cb81d10e7f0e9df') in 0.075885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.png
+  artifactKey: Guid(32cef6a96e79c904387df9d92260fabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS017/FS017_Night.png using Guid(32cef6a96e79c904387df9d92260fabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3e4f483f51d93fb930f14547e87420') in 0.060228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/scenes/old level-1/option-2/TimeLine/Electrical specialist/Texture/Ch08_1002_Normal.png
+  artifactKey: Guid(96973ec3a29612c42a502c3cc89cba10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/old level-1/option-2/TimeLine/Electrical specialist/Texture/Ch08_1002_Normal.png using Guid(96973ec3a29612c42a502c3cc89cba10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cedc544c06f884988f659d8ce6144295') in 0.112782 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001251 seconds.
+  path: Assets/New Nahil/models/Env_/TexturesPart01/textures/normal map.png
+  artifactKey: Guid(7a4b959cdb052c340ab44e30dce6d793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/TexturesPart01/textures/normal map.png using Guid(7a4b959cdb052c340ab44e30dce6d793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46bee83a3693f0eb289c29c4040fa05f') in 0.112964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Texture_15_Diffuse.png
+  artifactKey: Guid(d379c9e185ffab4419bd2d736d133242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Texture_15_Diffuse.png using Guid(d379c9e185ffab4419bd2d736d133242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd67811be0cf50d764119c9caa60aba') in 0.140155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/HDR_LUT_32.png
+  artifactKey: Guid(20533833ab333f146a6016bd406ad08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/HDR_LUT_32.png using Guid(20533833ab333f146a6016bd406ad08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a179df54af3144860ce4e4ea56e799e6') in 0.018792 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.004027 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Cool_LUT_32.png
+  artifactKey: Guid(459d2b8ac185b76488f91d4e57521b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/GestLUTSPack/Cool_LUT_32.png using Guid(459d2b8ac185b76488f91d4e57521b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b8befbc4cc5c7e1d4638d9f78d52e9') in 0.017191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Albedo.tif
+  artifactKey: Guid(2de0d72a6700bd94ea57111b29e246fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Albedo.tif using Guid(2de0d72a6700bd94ea57111b29e246fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48131431d2671ed8381da871f5115fad') in 0.021528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1002_Specular.png
+  artifactKey: Guid(51bd074b19b562740b3209868b8d5a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Characters PrefAps/Textures/Ch08_1002_Specular.png using Guid(51bd074b19b562740b3209868b8d5a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7badcaeca988c34698667fa3e024999') in 0.020227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/scenes/old level-1/option-2/TimeLine/Electrical specialist/Texture/Ch08_1001_Glossiness.png
+  artifactKey: Guid(f84de69ec4548124aaf432da92764ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scenes/old level-1/option-2/TimeLine/Electrical specialist/Texture/Ch08_1001_Glossiness.png using Guid(f84de69ec4548124aaf432da92764ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7146369e2e24e169ffa170346a89c3c') in 0.024727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 7.01 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 15 unused Assets / (1.6 MB). Loaded Objects now: 6429.
+Memory consumption went from 121.6 MB to 120.0 MB.
+Total: 10.300500 ms (FindLiveObjects: 0.759700 ms CreateObjectMapping: 0.988900 ms MarkObjects: 7.689300 ms  DeleteObjects: 0.819900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 42.589301 seconds.
+  path: Assets/Ahmed/sprites/Safety Attitudes at Work-logos_white 1.png
+  artifactKey: Guid(0ccee578fbe318745b8c86d23097824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Safety Attitudes at Work-logos_white 1.png using Guid(0ccee578fbe318745b8c86d23097824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19242e5e921c7afedb185114966b3670') in 0.101429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 54.333993 seconds.
+  path: Assets/Ahmed/sprites/Safety Attitudes at Work-logos_white 1.png
+  artifactKey: Guid(0ccee578fbe318745b8c86d23097824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Safety Attitudes at Work-logos_white 1.png using Guid(0ccee578fbe318745b8c86d23097824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00167159f84619f73f6b45851c39092b') in 0.024202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.427738 seconds.
+  path: Assets/Ahmed/sprites/Safety Attitudes at Work-logos_white 1.png
+  artifactKey: Guid(0ccee578fbe318745b8c86d23097824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Safety Attitudes at Work-logos_white 1.png using Guid(0ccee578fbe318745b8c86d23097824e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021feb40c9b8741d0f6dd47ebc2e6614') in 0.550834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 40.708027 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_Albedo.tif
+  artifactKey: Guid(b3f247b26e080ca468f1daa963c192ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_Albedo.tif using Guid(b3f247b26e080ca468f1daa963c192ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c27e82ea8d1de25363b8c417520af65') in 0.023062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001313 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_MetallicOcculusionSmoothness.tif
+  artifactKey: Guid(d6e9b636523ca3c479785cd7b065a18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_MetallicOcculusionSmoothness.tif using Guid(d6e9b636523ca3c479785cd7b065a18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff0e75150d016a9e3f327faee230d11') in 0.070225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c903d72b288d5a252d488c68d611edba') in 0.400856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 21.699662 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/PaintAnimMask.tif
+  artifactKey: Guid(283ce4692de713744b64bd5bd318f7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/PaintAnimMask.tif using Guid(283ce4692de713744b64bd5bd318f7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0681e1c4fa40fe13073840f929ab695') in 0.011285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.045791 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Plastic/Plastic_AlbedoSmoothness.tif
+  artifactKey: Guid(8d4c2ef6c30fce143a07c1d7746a2aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Plastic/Plastic_AlbedoSmoothness.tif using Guid(8d4c2ef6c30fce143a07c1d7746a2aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518973175af2e3075ed744462d145720') in 0.008076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.043472 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/Plastic_Normal.tif
+  artifactKey: Guid(e109905c411b0f84e82eaaf2705ece30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/Plastic_Normal.tif using Guid(e109905c411b0f84e82eaaf2705ece30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67dbaecec0cacc13cfaf30dc95c13c40') in 0.010193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_Albedo.tif
+  artifactKey: Guid(ecb23393a0d1b424a82fff68a4c00a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_Albedo.tif using Guid(ecb23393a0d1b424a82fff68a4c00a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb992075d5420d435ce67cba8b06f8ff') in 0.045373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/PlasticRough_Albedo.tif
+  artifactKey: Guid(7b82d12aad56cc445b99fd1cf06a232d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/PlasticRough_Albedo.tif using Guid(7b82d12aad56cc445b99fd1cf06a232d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c30984051680705815380c913d80ac9') in 0.023276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_MetallicOcculusionSmoothness.tif
+  artifactKey: Guid(201c1f77fe872924a86132486bc97e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_MetallicOcculusionSmoothness.tif using Guid(201c1f77fe872924a86132486bc97e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4d6a9bc6aca4fa5b1bed5b53168000') in 0.019493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Plastic/PlasticRough_Albedo.tif
+  artifactKey: Guid(8e6a4281c667a8e478ff50e3f75bd135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Plastic/PlasticRough_Albedo.tif using Guid(8e6a4281c667a8e478ff50e3f75bd135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75741f0731f0271ea6fb6860563f0ded') in 0.011747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 21.351736 seconds.
+  path: Assets/New Nahil/models/Env_/Skybox/Cubemaps/Classic/FS000_Day_06.png
+  artifactKey: Guid(55004e64c9880c04b964178d919b098a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/Env_/Skybox/Cubemaps/Classic/FS000_Day_06.png using Guid(55004e64c9880c04b964178d919b098a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eaa910f3a932fa271b52e6817847519') in 0.149605 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day_Sunless.png
+  artifactKey: Guid(e2c576b6d07638b468b5ba303a3a07cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day_Sunless.png using Guid(e2c576b6d07638b468b5ba303a3a07cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4119429fd3f98af60627d7c7e6f3459d') in 0.061941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night.png
+  artifactKey: Guid(3cf4d52b14bd4254d9f4fd063f8d9bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS002/FS002_Night.png using Guid(3cf4d52b14bd4254d9f4fd063f8d9bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f017749af900bd8e8c62afc5207d1b') in 0.110170 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.png
+  artifactKey: Guid(90bac99dc822bf641b140cdc291b845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Panoramics/FS002/FS002_Day.png using Guid(90bac99dc822bf641b140cdc291b845e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9744009014919da71d47c79210d42706') in 0.013403 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.621948 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/Paintbrush_Albedo.tif
+  artifactKey: Guid(4f30828e48381dd49bcb1a0b0b013335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/Paintbrush_Albedo.tif using Guid(4f30828e48381dd49bcb1a0b0b013335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d942176fc8ef2cd3e1bd5732efb2921') in 0.908225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/Paintbrush_Normal.tif
+  artifactKey: Guid(5f0856a892cc3bc4b89aa943864846c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Props/Paint/Paintbrush_Normal.tif using Guid(5f0856a892cc3bc4b89aa943864846c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0cc7666adb1a90febe901353cb1511') in 0.015178 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Props_TrafficProps.png
+  artifactKey: Guid(b386becb3d87aa64c8d545289379e79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Props_TrafficProps.png using Guid(b386becb3d87aa64c8d545289379e79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6643ea5a54c1915b1be2fb1f83d02a53') in 0.011201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Props_BillBoard_medium.png
+  artifactKey: Guid(6072b375808a0114394ccc42008e4d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/SimplePoly City - Low Poly Assets/Textures/Props_BillBoard_medium.png using Guid(6072b375808a0114394ccc42008e4d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b93db268e6a1eb8263ec583644efe01') in 0.020703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 71.914400 seconds.
+  path: Assets/New Nahil/Materials/Sand textures pack/Sand 05/preview.jpg
+  artifactKey: Guid(5f8be35f8317fb64f97bc692ad45641a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/Materials/Sand textures pack/Sand 05/preview.jpg using Guid(5f8be35f8317fb64f97bc692ad45641a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bca7650cce266fecd2bd6965a3f14f') in 0.066724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.013339 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/PurpleLUT_32.png
+  artifactKey: Guid(805b63fa736fa1745b7bdd182dfbb3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/PurpleLUT_32.png using Guid(805b63fa736fa1745b7bdd182dfbb3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ba70288e9d114c8997f1ab61c2ea4f') in 0.015837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.023540 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Wood/Plywood_Albedo.tif
+  artifactKey: Guid(10b6023ae23804449879020973a2ab37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/UnityURPfiles/ExampleAssets/Textures/Wood/Plywood_Albedo.tif using Guid(10b6023ae23804449879020973a2ab37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ad1b930ad98ae3c7e4d8b0836a595a') in 0.037130 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Nahil/Sand textures pack/Sand 05/preview.jpg
+  artifactKey: Guid(784e6c9e2fe61334ea00c90f586799b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Sand textures pack/Sand 05/preview.jpg using Guid(784e6c9e2fe61334ea00c90f586799b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db5e8ccc060a59b058bd41f37a00602') in 0.006800 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.022985 seconds.
+  path: Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/PaintLabel.tif
+  artifactKey: Guid(e5c37ab0c7b37af4f981195d3caaf4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/sprites/Assets/ExampleAssets/Textures/Props/Paint/PaintLabel.tif using Guid(e5c37ab0c7b37af4f981195d3caaf4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53cc0de3fc067cb404d28a49c7cd80f') in 0.037119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.191436 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Textures/lens.png
+  artifactKey: Guid(1fd16acc533eaa34382de697c36d0900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Textures/lens.png using Guid(1fd16acc533eaa34382de697c36d0900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f607f378f475bf74d50043d017afe6') in 0.089754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Nahil/Fantasy Skybox FREE/Scenes/Demo with terrain/Lightmap-0_comp_light.exr
+  artifactKey: Guid(ad84e82e3cb160f4c8b52d5818e9150d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nahil/Fantasy Skybox FREE/Scenes/Demo with terrain/Lightmap-0_comp_light.exr using Guid(ad84e82e3cb160f4c8b52d5818e9150d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b142f295d6a5148dfc6ffdce12716b') in 0.247711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/Horror2LUT_32.png
+  artifactKey: Guid(3ae01bc4fcb67274582f6d61be50ed43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/Horror2LUT_32.png using Guid(3ae01bc4fcb67274582f6d61be50ed43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11440a539961529d6068f2e6eba8280') in 0.009040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/LomonewLUT_32.png
+  artifactKey: Guid(2f08cb72f46a2134b974e39afc2111a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/LomonewLUT_32.png using Guid(2f08cb72f46a2134b974e39afc2111a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76ad4857f58db6e1c195215dbd9ab0a') in 0.008840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.023984 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/horror_LUT.png
+  artifactKey: Guid(6ece7d54efd9cad44828a82e920d64ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/horror_LUT.png using Guid(6ece7d54efd9cad44828a82e920d64ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a327e5c27efe25b8e0fa3bf5147a75') in 0.007823 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.032562 seconds.
+  path: Assets/Ahmed/URP PostProcessing Profiles/Luts/IceLUT_32.png
+  artifactKey: Guid(0ef320aa6845076468295de80886ed1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ahmed/URP PostProcessing Profiles/Luts/IceLUT_32.png using Guid(0ef320aa6845076468295de80886ed1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee3b792e90b5de3187e301d6cf40ea8') in 0.077289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/New Nahil/models/textures/Image_0.png
+  artifactKey: Guid(13adc7db004e61a46ae766b2dca316a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Nahil/models/textures/Image_0.png using Guid(13adc7db004e61a46ae766b2dca316a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c33d7d92c0a5086220981449dfa085') in 0.008978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Ahmed/inStart.unity
-    guid: 2c0fde5fa8962ce4f9f853df08ab3e5b
+    path: Assets/Ahmed/newUI.unity
+    guid: 1cf3dfcc51005bc48849fec6c3fd886e
   - enabled: 1
     path: Assets/scenes/New level-1/L1-Main S/main scene.unity
     guid: f3e73dc63cdacdd4e9cefd481933a086
@@ -16,5 +16,20 @@ EditorBuildSettings:
     guid: e01ab6900f2e3b24bb340d700541c241
   - enabled: 1
     path: Assets/scenes/New level-1/L1-S2/L1-O2.unity
-    guid: 7630ce60c2dc12b47a2ef58b6df510cd
+    guid: 263525434c961724fb72a0304a5ae2e6
+  - enabled: 1
+    path: Assets/scenes/Level-2/L2-Main S/L2-Main S.unity
+    guid: c9b81fbd433315e45a31632e60bb8d74
+  - enabled: 1
+    path: Assets/scenes/Level-2/L2-O1_Scenes/L2-O1-S1/L2-O1-S1.unity
+    guid: ea4d87eaf991fca4288b2491d0a9ad1e
+  - enabled: 1
+    path: Assets/scenes/Level-2/L2-O1_Scenes/L2-O1-S2/L2-O1-S2.unity
+    guid: 385dc4696626b7942b27b786670bb26c
+  - enabled: 1
+    path: Assets/scenes/Level-2/L2-O1_Scenes/L2-O1-S3/L2-O1-S3.unity
+    guid: 059d15177eb6d5a4c8213734ab826e85
+  - enabled: 1
+    path: Assets/scenes/Level-2/L2-O2-Scenes/L2-O2-S1/L2-O2-S1.unity
+    guid: 559bf57af9b5e5c47a778c06f478c73c
   m_configObjects: {}

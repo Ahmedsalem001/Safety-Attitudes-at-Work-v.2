@@ -37,7 +37,7 @@ MonoBehaviour:
     m_Value: 1
   threshold:
     m_OverrideState: 1
-    m_Value: 1.13
+    m_Value: 1.77
   intensity:
     m_OverrideState: 1
     m_Value: 0.03
@@ -344,10 +344,10 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.14
+    m_Value: 0.122
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.63
+    m_Value: 0.41
   rounded:
     m_OverrideState: 1
     m_Value: 1
@@ -578,7 +578,7 @@ MonoBehaviour:
   active: 1
   mode:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 2
   neutralHDRRangeReductionMode:
     m_OverrideState: 0
     m_Value: 2
@@ -674,7 +674,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.07
+    m_Value: 0
 --- !u!114 &7613759282525119969
 MonoBehaviour:
   m_ObjectHideFlags: 3

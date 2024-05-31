@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 1fdbaab37c6f41142918226bf5ef77fb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert2
+    second: {fileID: 2100000, guid: e474063c6f225114a8f7131d006735fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert3
+    second: {fileID: 2100000, guid: c6e65ffd253df1c4797b0b3163a99d21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert4
+    second: {fileID: 2100000, guid: dff54e05901d3c44c810fbf54f0b4a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_lambert2
+    second: {fileID: 2100000, guid: a46ecc19547d44f4490b437921aacc2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_lambert3
+    second: {fileID: 2100000, guid: 673e202e2fd199348b89e3b134bc49bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_lambert4
+    second: {fileID: 2100000, guid: 751f6348ecae59c4f8a514f26badd928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_lambert5
+    second: {fileID: 2100000, guid: 140530b5a148d984bb9a08d67ed05a81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_lambert6
+    second: {fileID: 2100000, guid: 63ea9bdc8b074134abe7c7fb69f9dbdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_Autumn_House_lambert7
+    second: {fileID: 2100000, guid: f7ccec2644c4b3e4590c0774930d3627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_Autumn_House_lambert2
+    second: {fileID: 2100000, guid: 2ca3ee6b5bf15134a8a99b32e42aa5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House1_Autumn_House_lambert2
+    second: {fileID: 2100000, guid: 1fc16f74130757e4a8d6153e8c32ef00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert2
+    second: {fileID: 2100000, guid: 16fc342e1e989a54a8fdc3dc03fbbb33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert3
+    second: {fileID: 2100000, guid: 9a1c1a31cf32b1f43afc6cdc4a91c8ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert4
+    second: {fileID: 2100000, guid: 377571b65ffc086428a87ed5b3ce0088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert2
+    second: {fileID: 2100000, guid: 215aef6ea7a5ef143bd5c87aa58c8c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert6
+    second: {fileID: 2100000, guid: b88aae4149d080142b5e6f9396fc80b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House_Autumn_House_Autumn_House_Autumn_House_lambert7
+    second: {fileID: 2100000, guid: 70fe4006224cacd4db7bbbe7a89a92c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Autumn_House_Autumn_House_Autumn_House_lambert2
+    second: {fileID: 2100000, guid: 140fb267c4c220941b574cd2bd4cb7fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Isometric_Bedroom_lambert17
+    second: {fileID: 2100000, guid: bcedec3311dffce41be7d5c0f681dcfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Isometric_Bedroom_lambert19
+    second: {fileID: 2100000, guid: 8bc39911b2c51a24593eaa4cb4e8bef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_Isometric_Bedroom_lambert24
+    second: {fileID: 2100000, guid: f2c1b8539eb6bd141b8c3948af98783f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert10
+    second: {fileID: 2100000, guid: 2f557c2554bc35e4c8db4b366f8ebc18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert2
+    second: {fileID: 2100000, guid: 014ec010b4908184684edd74311fab8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert4
+    second: {fileID: 2100000, guid: 708544b5cae61c64c9ca87f794ebd384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert5
+    second: {fileID: 2100000, guid: 762c000a0248fa04e97c982b7d8293e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert6
+    second: {fileID: 2100000, guid: 5cc2d6d723308ed4aa1dfd1f7dafefaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert7
+    second: {fileID: 2100000, guid: 90db63d9b29adf54298adb2fa9af6cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert8
+    second: {fileID: 2100000, guid: 6368755744184d14b8b6ebdbb975aa1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_best_bus_lambert9
+    second: {fileID: 2100000, guid: ee7f4b648416f3b41af93dd1e77ea5f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_city_of_dreams1_lambert2
+    second: {fileID: 2100000, guid: 3dd19028844e0064daddf2f63ac3b69c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_city_of_dreams1_lambert3
+    second: {fileID: 2100000, guid: e145331792dbaee4ba1fa2ac6d18d390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_city_of_dreams1_lambert4
+    second: {fileID: 2100000, guid: 93966c236f52d1745a24f7308c7f0dd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_city_of_dreams1_lambert5
+    second: {fileID: 2100000, guid: c6835ab72927c2c408cb20396e635f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_city_of_dreams_lambert2
+    second: {fileID: 2100000, guid: 8994541836bd12341822f1fb77688e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_construction_building_lambert2
+    second: {fileID: 2100000, guid: 04896933b136c6a43b9c9c78c0165e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_construction_building_lambert3
+    second: {fileID: 2100000, guid: 299accaf3e6faac4987daee6a6fca7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_construction_building_lambert4
+    second: {fileID: 2100000, guid: 38c8214fe028ac44db9c9e79c7f57556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_construction_building_lambert5
+    second: {fileID: 2100000, guid: b1ede3e673d3d984a9853b75f4150a49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_construction_building_lambert6
+    second: {fileID: 2100000, guid: 60ea896dcdd716149ae84df0d895b410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_kharghar_station_lambert2
+    second: {fileID: 2100000, guid: bddb2edc6472a7f49a1914006852e02f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_kharghar_station_lambert3
+    second: {fileID: 2100000, guid: c53d12b888ea0254d9e5bff1843f67ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_kharghar_station_lambert4
+    second: {fileID: 2100000, guid: f3f1788abe9a36349b55f70a802e9e2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_kharghar_station_lambert6
+    second: {fileID: 2100000, guid: ed77c0112be68fb468251625e67a722d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert10
+    second: {fileID: 2100000, guid: ab9a4ac7932826741bed56f01e59ca69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert2
+    second: {fileID: 2100000, guid: b2b6ea6d1a56de549a78a3e8470f934a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert3
+    second: {fileID: 2100000, guid: 6c60037e225ccec4caafb0ae6fb9ff32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert4
+    second: {fileID: 2100000, guid: 6de9feac4c6854d449303aef077c670f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert5
+    second: {fileID: 2100000, guid: 3f80648b8d995ae4eaef202299400eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert6
+    second: {fileID: 2100000, guid: 71c2e4a248d33e8438e1067180f07298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert8
+    second: {fileID: 2100000, guid: cad1fcf5d57d59940ad0a693063d31a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_light_lambert9
+    second: {fileID: 2100000, guid: 4849d1f4877f5c64ea87194dbe5a3337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_petrol_pump_lambert2
+    second: {fileID: 2100000, guid: 26b8ff8d901395447ad1ae5f323a93fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_petrol_pump_lambert3
+    second: {fileID: 2100000, guid: c56a5eb028d8dcc4c8ba0825ad86b30f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_petrol_pump_lambert4
+    second: {fileID: 2100000, guid: 7550bedda0fe70441b115eb64017849c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_petrol_pump_lambert5
+    second: {fileID: 2100000, guid: 2096b48f5fb59c64f880621911f1c832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_petrol_pump_lambert6
+    second: {fileID: 2100000, guid: 19c83486e2849a145bb245e0ffac0a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_petrol_pump_lambert7
+    second: {fileID: 2100000, guid: 85ed49a402d20bb498a0014fd50cc469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: city_city_city1_petrol_pump_lambert8
+    second: {fileID: 2100000, guid: b47b8eaaa6469ff46bf3abff0a1668c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 459349b4b1aad6447b53d1d4e1641198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: e6f56c677cb6a43428e15a86b9d550bb, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
